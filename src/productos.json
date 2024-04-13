@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "Produto Prueba1",
+    "description": "Este es un Producto de Prueba1",
+    "price": 200,
+    "thumbnail": "Sin Imagen",
+    "code": "abc123",
+    "stock": 25
+  },
+  {
+    "id": 2,
+    "title": "Produto Prueba2",
+    "description": "Este es un Producto de Prueba2",
+    "price": 300,
+    "thumbnail": "Sin Imagen",
+    "code": "abc124",
+    "stock": 35
+  },
+  {
+    "id": 3,
+    "title": "Produto Prueba6",
+    "description": "Este es un Producto de Prueba6",
+    "price": 300,
+    "thumbnail": "Sin Imagen",
+    "code": "abc126",
+    "stock": 35
+  },
+  {
+    "id": 4,
+    "title": "Produto Prueba7",
+    "description": "Este es un Producto de Prueba7",
+    "price": 300,
+    "thumbnail": "Sin Imagen",
+    "code": "abc127",
+    "stock": 35
+  },
+  {
+    "id": 5,
+    "title": "Produto Prueba8",
+    "description": "Este es un Producto de Prueba8",
+    "price": 300,
+    "thumbnail": "Sin Imagen",
+    "code": "abc128",
+    "stock": 35
+  },
+  {
+    "id": 6,
+    "title": "Produto Prueba9",
+    "description": "Este es un Producto de Prueba9",
+    "price": 300,
+    "thumbnail": "Sin Imagen",
+    "code": "abc129",
+    "stock": 35
+  },
+  {
+    "id": 7,
+    "title": "Produto Prueba10",
+    "description": "Este es un Producto de Prueba10",
+    "price": 300,
+    "thumbnail": "Sin Imagen",
+    "code": "abc1210",
+    "stock": 35
+  },
+  {
+    "id": 8,
+    "title": "Produto Prueba11",
+    "description": "Este es un Producto de Prueba11",
+    "price": 300,
+    "thumbnail": "Sin Imagen",
+    "code": "abc1211",
+    "stock": 35
+  },
+  {
+    "id": 9,
+    "title": "Produto Prueba12",
+    "description": "Este es un Producto de Prueba12",
+    "price": 300,
+    "thumbnail": "Sin Imagen",
+    "code": "abc1212",
+    "stock": 35
+  },
+  {
+    "id": 10,
+    "title": "Produto Prueba13",
+    "description": "Este es un Producto de Prueba13",
+    "price": 300,
+    "thumbnail": "Sin Imagen",
+    "code": "abc1213",
+    "stock": 35
+  }
+]
